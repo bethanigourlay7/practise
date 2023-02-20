@@ -1,0 +1,36 @@
+.mybk {
+    background-color: white !important ;
+    color: navy;
+
+}
+ul.topnav li a{
+    color: navy ;
+}
+/* #eb3c62*/
+.jumbo{
+    background-color: #FFD1DC;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(255,211,117,1) 100%);
+    /*#ff82ac */
+    color: white;
+}
+
+
+.m4{
+    height: 100%;   
+}
+/*.card{
+    height: 100%;
+    text-align: center;
+    object-fit: cover;
+}
+*/
+
+.-content{
+    font-size: 0.7em;
+    text-align: center;
+}
+
+
+
+
